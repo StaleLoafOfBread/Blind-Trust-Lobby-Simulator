@@ -2,6 +2,9 @@
 
 Sends the lobby packet for game "[Blind Trust](https://store.steampowered.com/app/468560/Blind_Trust/)". Useful where broadcast packets are not routing such as when using [WireGuard VPN](https://www.wireguard.com/) to play over the internet.
 
+
+Alternatively, you could use Hamachi as shown in the official guide: <https://www.youtube.com/watch?v=KlgRkI6OWqQ>
+
 ## How to use
 
 1. Start the lobby on Machine A
