@@ -7,8 +7,9 @@ Alternatively, you could use Hamachi as shown in the official guide: <https://ww
 
 ## How to use
 
+0. Install [Python](https://www.python.org/) and run `pip install -r requirements.txt`
 1. Start the lobby on Machine A
-2. Run the script on Macine B: `python lobby.py --host_ip <ip of lobby>`
+2. Run the script on Machine B: `python lobby.py --host_ip <ip of lobby>`
 3. Inside the game click `join` on Machine B
 4. Continue as normal
 
